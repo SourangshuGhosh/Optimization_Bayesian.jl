@@ -89,11 +89,3 @@ Use the REPL help, e.g. `?Bopt`, to get more information.
 * [A Tutorial on Bayesian Optimization of Expensive Cost Functions, with Application to Active User Modeling and Hierarchical Reinforcement Learning](https://arxiv.org/abs/1012.2599v1)
 * [Taking the Human Out of the Loop: A Review of Bayesian Optimization](https://ieeexplore.ieee.org/document/7352306)
 
-## Similar Projects
-
-[BayesOpt](https://github.com/jbrea/BayesOpt.jl) is a wrapper of the established
-[BayesOpt](https://github.com/rmcantin/bayesopt) toolbox written in C++.
-
-[Dragonfly](https://github.com/dragonfly/dragonfly) is a feature-rich package
-for scalable Bayesian optimization written in Python. Use it in Julia with
-[PyCall](https://github.com/JuliaPy/PyCall.jl).
