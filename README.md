@@ -1,4 +1,4 @@
-# BayesianOptimization
+# Optimization_Bayesian.jl
 
 ## Usage
 
